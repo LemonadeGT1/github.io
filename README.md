@@ -1,2 +1,3 @@
-# github.io
-Hello World! My name is Michael Patience
+# Hello World!
+
+My name is Michael Patience
